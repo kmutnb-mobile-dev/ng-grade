@@ -3,8 +3,13 @@ ng-grade
 
 ng-grade starter project.
 
+# 1. Install Packages
 
-# Run Server
+```bash
+$ npm install
+```
+
+# 2. Run Server
 
 ```bash
 $ node server
